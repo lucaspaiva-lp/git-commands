@@ -1,4 +1,4 @@
-## History and Diffs
+## 🕵️History and Diffs
 ```bash
 git log — Mostra o histórico completo de commits
 ```
