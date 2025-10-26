@@ -8,7 +8,7 @@ git add . — adiciona todos os arquivos modificados à staging area.
 
 git commit -m "mensagem" — grava as alterações preparadas como um commit.
 
-## 🌿 Branches
+## 🌿 Branch
 
 git branch — lista as branches locais.
 
