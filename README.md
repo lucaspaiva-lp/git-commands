@@ -34,6 +34,10 @@ A structured collection of Git commands and workflows, organized by category.
 - [Bisect: Find the Bug Commit](advanced/bisect.md)
 - [Reflog and Recovery](advanced/reflog.md)
 
+## 🕵️ History
+
+- [History and Diffs](reference/history.md)
+
 ## 📚 Reference
 
 - [Glossary of Git Terms](reference/glossary.md)
