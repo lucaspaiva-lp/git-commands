@@ -6,40 +6,40 @@ A structured collection of Git commands and workflows, organized by category.
 
 ## 📘 Basics
 
-- [Setup and Configuration](basics/setup.md)
-- [Repository Management](basics/repository.md)
-- [Git States Explained](basics/status-areas.md)
+- [Setup and Configuration](git-guide/basics/setup.md)
+- [Repository Management](git-guide/basics/repository.md)
+- [Git States Explained](git-guide/basics/status-areas.md)
 
 ## 📝 Commits
 
-- [Adding and Committing Changes](commits/add-commit.md)
-- [Amend or Edit Commits](commits/amend.md)
+- [Adding and Committing Changes](git-guide/commits/add-commit.md)
+- [Amend or Edit Commits](git-guide/commits/amend.md)
 - [Undoing Changes](commits/undo.md)
 
 ## 🌿 Branches
 
-- [Creating and Switching Branches](branches/create-switch.md)
-- [Merging Branches](branches/merge.md)
-- [Rebasing and Squashing](branches/rebase.md)
+- [Creating and Switching Branches](git-guide/branches/create-switch.md)
+- [Merging Branches](git-guide/branches/merge.md)
+- [Rebasing and Squashing](git-guide/branches/rebase.md)
 
 ## 🌍 Remote Operations
 
-- [Remote Setup and Management](remote/origin.md)
-- [Push, Pull, and Fetch](remote/push-pull.md)
-- [Tags and Versions](remote/tags.md)
+- [Remote Setup and Management](git-guide/remote/origin.md)
+- [Push, Pull, and Fetch](git-guide/remote/push-pull.md)
+- [Tags and Versions](git-guide/remote/tags.md)
 
 ## ⚙️ Advanced
 
-- [Stash and Temporary Work](advanced/stash.md)
-- [Bisect: Find the Bug Commit](advanced/bisect.md)
-- [Reflog and Recovery](advanced/reflog.md)
+- [Stash and Temporary Work](git-guide/advanced/stash.md)
+- [Bisect: Find the Bug Commit](git-guide/advanced/bisect.md)
+- [Reflog and Recovery](git-guide/advanced/reflog.md)
 
 ## 🕵️ History
 
-- [History and Diffs](reference/history.md)
+- [History and Diffs](git-guide/reference/history.md)
 
 ## 📚 Reference
 
-- [Glossary of Git Terms](reference/glossary.md)
-- [Quick Shortcuts &amp; Tips](reference/shortcuts.md)
-- [Official Resources](reference/resources.md)
+- [Glossary of Git Terms](git-guide/reference/glossary.md)
+- [Quick Shortcuts &amp; Tips](git-guide/reference/shortcuts.md)
+- [Official Resources](git-guide/reference/resources.md)
