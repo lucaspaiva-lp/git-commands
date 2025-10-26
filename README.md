@@ -1,7 +1,6 @@
 # 🧩 Git Commands Reference
 
 A structured collection of Git commands and workflows, organized by category.
-
 [Fast Reference: Essential Commands](fast-reference.md) — Quick guide to essential Git commands.
 
 ## 📘 Basics
