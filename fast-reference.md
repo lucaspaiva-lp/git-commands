@@ -216,8 +216,3 @@ git bisect good <tag/commit>    </span><span># commit bom</span><span>
 git bisect reset                 </span><span># finalizar bisect</span></span></code></div></div></pre>
 
 **Tip**: Este guia é uma referência enxuta, mas cobre **todas as operações básicas e avançadas** que provavelmente vai usar em projetos acadêmicos ou pessoais.
-
-### Sugestões
-
-* https://github.com/lucaspaiva-lp/introduction-to-github.git
-* https://github.com/bobbyiliev/introduction-to-git-and-github-ebook
