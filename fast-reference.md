@@ -4,17 +4,17 @@
 
 ## **Estados dos arquivos**
 
-* **Modificado (modified):** Alterações feitas no working directory.
-* **Preparado (staged/index):** Arquivos adicionados à staging area (`git add`).
-* **Consolidado (committed):** Alterações registradas no repositório local (`git commit`).
+- **Modificado (modified):** Alterações feitas no working directory.
+- **Preparado (staged/index):** Arquivos adicionados à staging area (`git add`).
+- **Consolidado (committed):** Alterações registradas no repositório local (`git commit`).
 
 ---
 
 ## **Ajuda**
 
-* **Geral:** `git help`
-* **Comando específico:** `git help <comando>`
-* **Exemplo:** `git help add` ou `git help commit`
+- **Geral:** `git help`
+- **Comando específico:** `git help <comando>`
+- **Exemplo:** `git help add` ou `git help commit`
 
 ---
 
@@ -45,8 +45,8 @@ git config --list
 
 ## **Ignorar arquivos**
 
-* **Global:** arquivos ignorados em todos os repositórios (`core.excludesfile`).
-* **Por repositório:** arquivo `.gitignore` no diretório do projeto.
+- **Global:** arquivos ignorados em todos os repositórios (`core.excludesfile`).
+- **Por repositório:** arquivo `.gitignore` no diretório do projeto.
 
 ---
 
@@ -100,7 +100,7 @@ git </span><span>log</span><span> --author=usuario             </span><span># hi
 
 ## **Desfazendo alterações**
 
-<pre class="overflow-visible!" data-start="2780" data-end="2944"><div class="contain-inline-size rounded-2xl relative bg-token-sidebar-surface-primary"><div class="sticky top-9"><div class="absolute end-0 bottom-0 flex h-9 items-center pe-2"><div class="bg-token-bg-elevated-secondary text-token-text-secondary flex items-center gap-4 rounded-sm px-2 font-sans text-xs"></div></div></div><div class="overflow-y-auto p-4" dir="ltr"><code class="whitespace-pre! language-bash"><span><span># Alterações locais (não adicionadas à staging)</span><span>
+<pre class="overflow-visible!" data-start="2780" data-end="2944"><div class="contain-inline-size rounded-2xl relative bg-token-sidebar-surface-primary"><div class="sticky top-9"><div class="absolute end-0 bottom-0 flex h-9 items-center pe-2"><div class="bg-token-bg-elevated-secondary text-token-text-secondary flex items-center gap-4 rounded-sm px-2 font-sans text-xs"></div></div></div><div class="overflow-y-auto p-4" dir="ltr"><code class="whitespace-pre! language-bash"><span><span># Alterações locais (NÃO adicionadas à staging)</span><span>
 git checkout -- arquivo.txt
 
 </span><span># Alterações na staging</span><span>
@@ -153,8 +153,8 @@ git push origin --tags           </span><span># enviar todas tags locais</span><
 
 ## **Branches**
 
-* `master/main`: branch principal
-* `HEAD`: ponteiro para o branch atual
+- `master/main`: branch principal
+- `HEAD`: ponteiro para o branch atual
 
 <pre class="overflow-visible!" data-start="4063" data-end="4817"><div class="contain-inline-size rounded-2xl relative bg-token-sidebar-surface-primary"><div class="sticky top-9"><div class="absolute end-0 bottom-0 flex h-9 items-center pe-2"><div class="bg-token-bg-elevated-secondary text-token-text-secondary flex items-center gap-4 rounded-sm px-2 font-sans text-xs"></div></div></div><div class="overflow-y-auto p-4" dir="ltr"><code class="whitespace-pre! language-bash"><span><span>git branch                      </span><span># listar branches</span><span>
 git branch -v                   </span><span># listar com últimos commits</span><span>
