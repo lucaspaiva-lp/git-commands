@@ -50,6 +50,6 @@ This repository is intended as a personal guide to Git, but it is openly shared 
 
 Contributions are **warmly welcome**, whether they **involve corrections, improvements, the addition of new features, or adaptations to other languages**. Adapting the content into other languages is encouraged, as it helps **perpetuate knowledge** and **overcome language barriers**.
 
-Users are encouraged to fork this repository for academic purposes, learning, or experimentation.
+Users are encouraged to fork this repository for **academic purposes, learning, or experimentation**.
 
 Our goal is to provide a clear and reliable reference that can benefit both the repository owner and the wider community of Git users.
